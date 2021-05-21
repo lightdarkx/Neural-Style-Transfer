@@ -1,0 +1,4 @@
+### TODO ###
+
+Change optimizer from Adam to lbfgs
+Change the TF1 code to TF2
